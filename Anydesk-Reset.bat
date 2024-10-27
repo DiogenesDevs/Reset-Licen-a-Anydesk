@@ -21,4 +21,4 @@ if %ostype%==32 (set pdir="C:\Program Files\AnyDesk\") else (set pdir="C:\Progra
 c:
 cd\
 cd %pdir%
-start Anydesk.exe
+start AnyDesk.exe
